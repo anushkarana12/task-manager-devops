@@ -74,3 +74,15 @@ Task Manager
 
 \- Error Handling
 
+## Task Management Features
+
+
+
+\- Create Task
+
+\- View Task
+
+\- Update Task
+
+\- Delete Task
+
