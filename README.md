@@ -22,7 +22,7 @@ Design and Implementation of an End-to-End DevOps Pipeline for Cloud-Native Appl
 
 \## Application
 
-Task Manager
+DevOps Task Manager
 
 
 
