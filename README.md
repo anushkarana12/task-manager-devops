@@ -22,7 +22,7 @@ Design and Implementation of an End-to-End DevOps Pipeline for Cloud-Native Appl
 
 \## Application
 
-Cloud Task Manager
+DevOps Task Manager
 
 
 
@@ -73,4 +73,16 @@ Cloud Task Manager
 \- Responsive Web Interface
 
 \- Error Handling
+
+## Task Management Features
+
+
+
+\- Create Task
+
+\- View Task
+
+\- Update Task
+
+\- Delete Task
 
